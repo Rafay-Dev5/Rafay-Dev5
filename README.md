@@ -1,8 +1,3 @@
-<!--
-  GitHub Profile README for https://github.com/Rafay-Dev5
-  Place this file in a public repo named exactly: Rafay-Dev5/Rafay-Dev5
--->
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=28&duration=3200&pause=900&color=2A9D8F&center=true&vCenter=true&width=780&height=50&lines=Abdul+Rafay+Syed;Trustworthy+AI+%26+LLM+Evaluation;Research+Software+for+Reliable+ML" alt="Typing headline" />
@@ -13,7 +8,6 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=lIKXH1AAAAAJ)
 [![arXiv](https://img.shields.io/badge/arXiv-Papers-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/search/cs?query=au%3A%22Abdul+Rafay+Syed%22&searchtype=author)
 [![Email](https://img.shields.io/badge/Email-rafay7381%40gmail.com-2A9D8F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafay7381@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrafaysyed)
 
 <br/>
 
@@ -25,14 +19,15 @@
 
 ## About me
 
-I recently completed my **M.Sc. in Computer Science** at **Saarland University**, with thesis research at **[CISPA Helmholtz Center for Information Security](https://cispa.de)** under Prof. Thorsten Holz and Prof. Lea Schönherr.
+I recently completed my **M.Sc. in Computer Science** at **Saarland University**, with thesis research at **[CISPA Helmholtz Center for Information Security](https://cispa.de)**.
 
-I build and evaluate **LLM systems under real deployment conditions** — from activation-space safety diagnostics to large-scale agentic pipelines — with a focus on whether model-internal signals and evaluation metrics are **specific enough to trust**.
+I build and evaluate **LLM systems under real deployment conditions**, from activation-space safety diagnostics to large-scale agentic pipelines, with a focus on whether model-internal signals and evaluation metrics are **specific enough to trust**.
 
 **Currently interested in**
 - Uncertainty quantification & trustworthy LLM evaluation  
 - Research software / open ML platforms (APIs, harnesses, reproducible pipelines)  
-- Mechanistic interpretability for safety auditing  
+- Mechanistic interpretability for safety auditing
+- Trustworthy Computing
 
 ---
 
@@ -70,33 +65,8 @@ RAG system for IT / supply-chain security questionnaires (similarity + MMR retri
 Fully automated ASR→LLM→TTS agent for outbound voice engagement with **live fake technical support scammers**. **1,839** calls · multi-turn field study · stage-aware cost analysis.
 
 </td>
-<td width="50%" valign="top">
-
-### Trustworthy ML coursework
-Membership inference · model stealing · robustness · DP fine-tuning  
-
-Course repos: [MIA](https://github.com/Rafay-Dev5/TML_A1_MIA_Team9) · [Model stealing](https://github.com/Rafay-Dev5/TML_Team9_Model_Stealing) · [Robustness](https://github.com/Rafay-Dev5/Team9_TML_Robustness) · [PromptDP](https://github.com/Rafay-Dev5/PromptDP)
-
-</td>
 </tr>
 </table>
-
----
-
-## Featured repositories
-
-<div align="center">
-
-| Project | What it is |
-|:--------|:-----------|
-| **[PromptDP](https://github.com/Rafay-Dev5/PromptDP)** | Fine-tuning strategies **with / without Differential Privacy** |
-| **[TML Model Stealing](https://github.com/Rafay-Dev5/TML_Team9_Model_Stealing)** | Trustworthy ML — model extraction experiments |
-| **[TML MIA](https://github.com/Rafay-Dev5/TML_A1_MIA_Team9)** | Membership inference attack assignment |
-| **[TML Robustness](https://github.com/Rafay-Dev5/Team9_TML_Robustness)** | Adversarial robustness pipelines |
-| **[German Credit Rank Predictor](https://github.com/Rafay-Dev5/German-Credit-Rank-Predictor)** | Binary credit-risk classification |
-| **[ts_admin](https://github.com/Rafay-Dev5/ts_admin)** | TypeScript admin tooling |
-
-</div>
 
 ---
 
@@ -115,7 +85,7 @@ Course repos: [MIA](https://github.com/Rafay-Dev5/TML_A1_MIA_Team9) · [Model st
 
 <br/>
 
-`Hugging Face` · `PEFT / QLoRA` · `LangChain` · `Elasticsearch` · `TextAttack` · `Inspect` · `G-Eval`
+`Hugging Face` · `PEFT / QLoRA` · `LangChain` · `Elasticsearch` · `Inspect`
 
 </div>
 
@@ -133,9 +103,6 @@ Course repos: [MIA](https://github.com/Rafay-Dev5/TML_A1_MIA_Team9) · [Model st
 </a>
 
 <br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafay-Dev5&theme=dark&background=14213D&ring=2A9D8F&fire=2A9D8F&currStreakLabel=2A9D8F&sideLabels=EAF0F7&dates=A9BBD6&hide_border=true" alt="GitHub streak" />
-
 </div>
 
 ---
@@ -146,8 +113,7 @@ Course repos: [MIA](https://github.com/Rafay-Dev5/TML_A1_MIA_Team9) · [Model st
 📍 Saarbrücken, Germany
 🎓 M.Sc. CS (graduated) — Saarland University
 🔬 Thesis research — CISPA Helmholtz Center for Information Security
-📄 Publications — WITS 2024 · arXiv preprint on emergent misalignment
-🎯 Looking for — PhD / research engineer roles in trustworthy AI & ML platforms
+🎯 Looking for — PhD / research engineer roles in trustworthy AI & ML platforms as well as research collaborations
 ```
 
 ---
@@ -157,6 +123,6 @@ Course repos: [MIA](https://github.com/Rafay-Dev5/TML_A1_MIA_Team9) · [Model st
 <img src="https://capsule-render.vercel.app/api?type=waving&color=14213D&height=90&section=footer&text=Thanks%20for%20stopping%20by&fontSize=18&fontColor=8FA3C4&fontAlignY=65" width="100%" alt="Footer" />
 
 **Open to research collaborations and PhD opportunities**  
-[Scholar](https://scholar.google.com/citations?user=lIKXH1AAAAAJ) · [Email](mailto:rafay7381@gmail.com) · [arXiv:2606.20225](https://arxiv.org/pdf/2606.20225)
+[Scholar](https://scholar.google.com/citations?user=lIKXH1AAAAAJ) · [Email](mailto:rafay7381@gmail.com)
 
 </div>
