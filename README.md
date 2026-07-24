@@ -56,16 +56,6 @@ RAG system for IT / supply-chain security questionnaires (similarity + MMR retri
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### Master's thesis · WellVisher
-**CISPA / Saarland**  
-
-Fully automated ASR→LLM→TTS agent for outbound voice engagement with **live fake technical support scammers**. **1,839** calls · multi-turn field study · stage-aware cost analysis.
-
-</td>
-</tr>
 </table>
 
 ---
